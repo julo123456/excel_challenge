@@ -1,3 +1,3 @@
 # excel_challenge
-Module 1 Excel Challenge
-contains word document and excel to support my report.
+
+This tasks involved in Pivot Tables creation in a given excel file within which, line plots, stacked bar graphs were created under Pivot Tables. 
